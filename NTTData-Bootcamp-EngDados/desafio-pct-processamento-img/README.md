@@ -47,7 +47,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Levi Mori
+Sisnando Junior
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
